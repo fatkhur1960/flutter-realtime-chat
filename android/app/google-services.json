@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553845154498",
+    "project_id": "satir-784ca",
+    "storage_bucket": "satir-784ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553845154498:android:21a72be22d0089a95c515b",
+        "android_client_info": {
+          "package_name": "com.fatkhuranonym.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553845154498-b2bjpnr9oe13lq8snh6j9b34i81tt1kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAFZy33cuGR8fM7XtPp7If5gIoAYq_YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553845154498-b2bjpnr9oe13lq8snh6j9b34i81tt1kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
